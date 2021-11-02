@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	address = "200.1.20.155:8000"
+	address = "10.6.40.193:9000"
 )
 
 func main() {

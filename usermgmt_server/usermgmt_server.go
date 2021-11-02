@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	port = ":8000"
+	port = ":9000"
 )
 
 type UserManagementServer struct {
