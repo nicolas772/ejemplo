@@ -11,7 +11,6 @@ import (
 
 const (
 	address = "10.6.40.193:50010"
-	//address = "200.1.20.155:50010"
 )
 
 func main() {
